@@ -6,6 +6,6 @@ public class Main {
        Conduct nn = new Conduct("69420", "yo");
        Car c= new Car("ERR-404", "THingamajig", "thingamabob", mm, nn);
 
-       c.exibirInfo();
+       c.showEm();
     }
 }
